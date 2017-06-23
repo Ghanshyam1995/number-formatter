@@ -1,0 +1,18 @@
+{
+    "name": "numberformatter",
+    "version": "0.0.1",
+    "description": "format the number",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --reporter nyan" //nyan or spec
+    },
+    "engines": {
+        "node": ">=4.2.4"
+    },
+    "author": "Ghanshyam Singh <ghanshyam3303@gmail.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^4.0.2",
+        "mocha": "^3.4.2"
+    }
+}
